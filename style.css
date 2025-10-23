@@ -17,7 +17,7 @@ body{
 }
 
 .item {
-  height: 30px;
+  min-height: 30px;
   width: 30px;
   border: 1px solid #e8e4e6;
   background-color: #abd1c6;
