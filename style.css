@@ -1,0 +1,92 @@
+* {
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  
+}
+
+html {
+  font-family: sans-serif;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+}
+
+body{
+    margin: 20px 0;
+}
+
+.item {
+  height: 30px;
+  width: 30px;
+  border: 1px solid #e8e4e6;
+  background-color: #abd1c6;
+  padding: 10px;
+}
+
+.container {
+  margin: 10px 0;
+  background: #e8e4e6;
+  height: 150px;
+}
+
+.flex{
+  
+}
+
+.infl {
+  
+}
+
+.start {
+
+}
+
+.end {
+
+}
+
+.center {
+
+}
+
+.around {
+
+}
+
+.between {
+
+}
+
+.side {
+
+}
+
+.middle {
+
+}
+
+
+/* Don't Mess With This Stuff */
+
+
+h2 {
+  font-size: 18px;
+  margin: 10px;
+}
+
+.big {
+  font-size: 30px;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.inbl {
+  display: inline-block;
+}
