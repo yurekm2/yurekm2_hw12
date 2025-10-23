@@ -50,10 +50,12 @@ body{
 
 .center {
   justify-content: center;
+  align-items: center;
 }
 
 .around {
   justify-content: space-around;
+  align-items: baseline;
 }
 
 .between {
