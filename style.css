@@ -49,21 +49,25 @@ body{
 .end {
   justify-content: flex-end;
   align-items: flex-end;
+  align-content: flex-end;
 }
 
 .center {
   justify-content: center;
   align-items: center;
+  align-content: center;
 }
 
 .around {
   justify-content: space-around;
   align-items: baseline;
+  align-content: space-around;
 }
 
 .between {
   justify-content: space-between;
   align-items: stretch;
+  align-content: space-between;
 }
 
 .side {
