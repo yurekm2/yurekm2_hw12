@@ -64,15 +64,17 @@ body{
 }
 
 .side {
-  flex-grow: 1;
+  /*flex-grow: 1;
   flex-shrink: 2;
-  flex-basis: 80px;
+  flex-basis: 80px;*/
+  flex: 1 2 80px;
 }
 
 .middle {
-  flex-grow: 2;
+  /*flex-grow: 2;
   flex-shrink: 1;
-  flex-basis: 40px;
+  flex-basis: 40px;*/
+  flex: 2 1 40px;
 }
 
 
