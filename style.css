@@ -28,6 +28,7 @@ body{
   margin: 10px 0;
   background: #e8e4e6;
   height: 150px;
+  flex-wrap: wrap;
 }
 
 .flex{
